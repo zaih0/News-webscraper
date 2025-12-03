@@ -1,0 +1,96 @@
+/* Global dark theme */
+body {
+    background: #1e1e1e;
+    color: #d4d4d4;
+    font-family: Consolas, "Courier New", monospace;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+.topbar {
+    background: #252526;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid #3c3c3c;
+}
+
+.topbar h1 {
+    color: #61dafb;
+    margin: 0;
+    font-size: 32px;
+}
+
+/* Layout */
+.container {
+    width: 80%;
+    max-width: 1100px;
+    margin: 40px auto;
+}
+
+/* Article card */
+.card {
+    background: #252526;
+    border: 1px solid #3c3c3c;
+    border-radius: 8px;
+    margin-bottom: 25px;
+    padding: 20px;
+    box-shadow: 0 0 8px #00000050;
+    transition: 0.2s;
+}
+
+.card:hover {
+    border-color: #61dafb;
+    box-shadow: 0 0 12px #61dafb50;
+}
+
+.card-header {
+    margin-bottom: 10px;
+}
+
+.article-title {
+    color: #61dafb;
+    font-size: 22px;
+}
+
+/* Summary and metadata */
+.card-body p {
+    line-height: 1.6;
+}
+
+.meta {
+    font-size: 13px;
+    color: #8a8a8a;
+    margin-top: 10px;
+}
+
+/* Buttons */
+.btn {
+    display: inline-block;
+    padding: 10px 16px;
+    background: #007acc;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 12px;
+    transition: 0.2s;
+}
+
+.btn:hover {
+    background: #61dafb;
+    color: black;
+}
+
+/* Article page */
+.article-page h2 {
+    color: #61dafb;
+}
+
+.code-block {
+    background: #1e1e1e;
+    padding: 20px;
+    white-space: pre-wrap;
+    border-left: 4px solid #007acc;
+    border-radius: 6px;
+    margin: 20px 0;
+}
