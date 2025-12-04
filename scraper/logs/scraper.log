@@ -49,3 +49,23 @@
 2025-12-03 10:35:57,367 [INFO] Rejected non-EU article: https://oceannews.com/news/subsea-and-survey/tgs-awarded-obn-contract-in-europe-2/&ved=2ahUKEwiHruyDj6GRAxVn_7sIHdE2DG0QxfQBegQIBhAC&usg=AOvVaw1m4VbgWbytWPZflJhTbP0u
 2025-12-03 10:35:57,367 [INFO] Collected 0 EU English articles.
 2025-12-03 10:35:57,367 [INFO] === EU Scraping run complete ===
+2025-12-04 09:31:15,972 [INFO] === Starting GoogleNews scraping run ===
+2025-12-04 09:31:20,045 [INFO] ruthless removal did not work. 
+2025-12-04 09:31:21,667 [INFO] ruthless removal did not work. 
+2025-12-04 09:31:22,414 [INFO] ruthless removal did not work. 
+2025-12-04 09:31:24,279 [INFO] ruthless removal did not work. 
+2025-12-04 09:31:27,316 [INFO] ruthless removal did not work. 
+2025-12-04 09:31:28,767 [INFO] ruthless removal did not work. 
+2025-12-04 09:31:29,432 [INFO] ruthless removal did not work. 
+2025-12-04 09:31:29,434 [INFO] Scraped 15 new articles.
+2025-12-04 09:31:29,452 [INFO] Deleted 15 oldest article(s).
+2025-12-04 09:31:29,460 [INFO] Inserted 15 new article(s).
+2025-12-04 09:31:29,464 [INFO] === Finished scraping run ===
+2025-12-04 09:35:05,850 [INFO] === Starting Global English Scraping Run ===
+2025-12-04 09:35:21,501 [INFO] Scraped 0 valid English articles.
+2025-12-04 09:35:21,502 [INFO] === Scraping Finished ===
+2025-12-04 09:37:51,246 [INFO] === Starting Global Scraping Run ===
+2025-12-04 09:38:06,301 [INFO] Scraped 1 valid articles.
+2025-12-04 09:38:06,310 [INFO] Deleted 1 oldest article(s).
+2025-12-04 09:38:06,316 [INFO] Inserted 1 new article(s).
+2025-12-04 09:38:06,318 [INFO] === Scraping Finished ===

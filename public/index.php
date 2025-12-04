@@ -18,6 +18,7 @@ $result = $conn->query($query);
     <title>Coffee and Bytes - Tech News</title>
     <link rel="stylesheet" href="assets/css/style.css">
     <script src="assets/script.js" defer></script>
+    <link rel="icon" href="assets/images/code.png">
 </head>
 
 <body>

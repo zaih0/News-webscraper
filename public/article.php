@@ -34,6 +34,7 @@ $row = $result->fetch_assoc();
     <meta charset="UTF-8">
     <title><?= htmlspecialchars($row['title']) ?> - Coffee and Bytes</title>
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="icon" href="assets/images/code.png">
 </head>
 <body>
 
